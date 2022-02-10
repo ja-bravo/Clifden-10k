@@ -11,7 +11,7 @@
     "gatsby-plugin-no-sourcemaps": "^1.0.5",
     "gatsby-plugin-react-helmet": "^2.0.10",
     "gatsby-plugin-sass": "1.0.19",
-    "node-sass": "^4.9.2",
+    "node-sass": "^7.0.0",
     "react-helmet": "^5.2.0"
   },
   "keywords": [
